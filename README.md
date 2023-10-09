@@ -11,7 +11,7 @@ https://finance.yahoo.com/lookup
 
 My code begins with exploratory data analysis of AAPL historical price data, including visualizations. 
 
-I then train the data, using the TimeSeriesSplit method to avoid training based on future predictions. I include discussions of different weights for training vs. testing data.
+I then train the data, using the TimeSeriesSplit method to avoid training based on future predictions. 
 
 I then create and initialize the model. Because this is time series data, I opt for a Recurrent Neural Network (RNN), choosing a Long Short-Term Memory (LSTM) Model. Discussions of my various choices are included. After evaluation, I choose Mean Squared Error as my loss function. 
 
