@@ -5,7 +5,7 @@
 
 This repository contains work I produced for the Spring 2023 Course at Johns Hopkins University: Gateway Data Science.
 
-I train my model using historical price data of Apple stock (AAPL). It then predicts APPL prices for the first two weeks of 2023. Data is sourced from: 
+I train my model using historical price data of Apple stock (AAPL). It then predicts AAPL prices for the first two weeks of 2023. Data is sourced from: 
 https://www.nasdaq.com/market-activity/stocks/aapl/historical 
 https://finance.yahoo.com/lookup
 
